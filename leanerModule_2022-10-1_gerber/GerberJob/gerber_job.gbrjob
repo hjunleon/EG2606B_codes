@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-10-13T15:45:38Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "leanerModule"
+        },
+        "Owner": "Jun Leong Hoe <e0528182@u.nus.edu>",
+        "Size": {
+            "X": 33.127,
+            "Y": 43.485
+        }
+    }
+}
